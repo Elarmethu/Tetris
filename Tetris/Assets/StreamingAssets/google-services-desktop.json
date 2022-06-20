@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289326024395",
+    "firebase_url": "https://tetramino-online-default-rtdb.firebaseio.com",
+    "project_id": "tetramino-online",
+    "storage_bucket": "tetramino-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289326024395:android:4cf5f252d6ef8429febd4e",
+        "android_client_info": {
+          "package_name": "com.Elarmethu.Tetirs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289326024395-5oihdh8uha3ps3hqg2ogg2j5iru2ll54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-mii-W_sq5oOa_oIRpqZ7V1eUVpXQ57w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289326024395-5oihdh8uha3ps3hqg2ogg2j5iru2ll54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
